@@ -91,9 +91,9 @@ A technologist + architect at heart. I like contemplating on complex business pr
 - 🏸 Badminton, weirdly fun
 
 ## Special Thanks to these repositories
-[Icons source](https://github.com/marwin1991/profile-technology-icons)
+[Icons source 1](https://github.com/marwin1991/profile-technology-icons)
 <br/>
-[Icons source](https://github.com/get-icon/geticon)
+[Icons source 2](https://github.com/get-icon/geticon)
 
 
 [linkedin]: https://www.linkedin.com/in/hanson-lynn-394756130/
