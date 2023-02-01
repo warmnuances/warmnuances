@@ -73,10 +73,10 @@ A technologist + architect at heart. I like contemplating on complex business pr
 - [Azure Administrator](https://www.credly.com/badges/ec0108a5-efe9-47f3-95e1-2b09a884fb30/public_url)
 
 <p align="left">
-  <img src="./img/cka.png" width="200" height="200">
-  <img src="./img/az-solutions-architect.png" width="200" height="200">
-  <img src="./img/az-administrator.png" width="200" height="200">
-  <img src="./img/az-fundamentals.png" width="200" height="200">
+  <img src="img/cka.png" width="200" height="200">
+  <img src="img/az-solutions-architect.png" width="200" height="200">
+  <img src="img/az-administrator.png" width="200" height="200">
+  <img src="img/az-fundamentals.png" width="200" height="200">
 </p>
 
 
