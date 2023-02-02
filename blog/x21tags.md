@@ -11,3 +11,4 @@ X21Tags is a queuing system that allows users to update status of their customer
 - **Secure** — Tempering of data and state is guarded against and authN/Z is handled by Auth0.
 
 ## Examples
+![Application](/blog/example.png)
